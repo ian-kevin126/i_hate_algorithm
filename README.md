@@ -1,2 +1,3 @@
 # i_hate_algorithm
+
 One algorithm a day, no job loss...
